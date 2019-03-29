@@ -1,0 +1,36 @@
+.menu {
+	font-color: rgb(12, 6, 51);
+}
+
+.navbar-logo-img {
+	width: 100px;
+	height: auto;
+}
+
+.boy-img {
+	margin-right: none;
+	max-height: 500px;
+	width: auto;
+	padding-left: 50px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	color: #8b62ff;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+.center {
+	text-align: center;
+}
+
+.img-responsive {
+	margin: auto;
+}
+
+.mycard {
+	padding: 40px 0;
+	border-top: 1px solid #eee;
+}
